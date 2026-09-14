@@ -25,7 +25,9 @@ st.markdown("""
         border-radius: 18px;
         box-shadow: 0 4px 24px rgba(44,62,80,0.10);
         padding: 2.5em 2em;
+        padding: 2.2em 2em;
         margin-top: 1.5em;
+        margin-top: 1em;
         margin-bottom: 1.5em;
         transition: box-shadow 0.3s;
     }
@@ -35,9 +37,12 @@ st.markdown("""
     .disease-title {
         color: #1b5e20;
         font-size: 2.2em;
+        font-sixe: 2em;
         font-weight: 700;
         margin-bottom: 0.5em;
+        margin-bottom: 0.4em;
         letter-spacing: 1px;
+        letter-spacing: 0.5px;
         text-shadow: 0 2px 8px #e0e0e0;
     }
     .section-title {
@@ -51,7 +56,9 @@ st.markdown("""
     .timestamp {
         color: #616161;
         font-size: 0.95em;
+        font-size: 0.9em;
         margin-top: 1.2em;
+        margin-top: 1em;
         text-align: right;
     }
     .info-badge {
@@ -60,9 +67,11 @@ st.markdown("""
         color: #1976d2;
         border-radius: 8px;
         padding: 0.3em 0.8em;
+        padding: 0.3em 0.9em;
         font-size: 1em;
         margin-right: 0.5em;
         margin-bottom: 0.3em;
+        margin-bottom: 0.4em;
     }
     .symptom-list, .cause-list, .treatment-list {
         margin-left: 1em;
